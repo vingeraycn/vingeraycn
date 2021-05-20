@@ -1,5 +1,6 @@
-![leihancn's github stats](https://github-readme-stats.vercel.app/api?username=leihancn&hide_border=true)
-![leihancn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leihancn&hide_border=true&v=2)
+![leihancn's github stats](https://github-readme-stats.vercel.app/api?username=leihancn&hide_border=true&count_private=true&show_icons=true&theme=vue)
+![leihancn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leihancn&hide_border=true&v=2&theme=vue&layout=compact)
+
 
 <!--
 **LeiHanCN/leihancn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
