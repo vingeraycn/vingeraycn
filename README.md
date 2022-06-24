@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Product thinking, Human-computer interaction theory, and UI Design**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **vingeray@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vingeraycn&show_icons=true&locale=en" alt="vingeraycn" /></p>
