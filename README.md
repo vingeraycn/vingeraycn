@@ -7,7 +7,4 @@
 
 - 📫 How to reach me **vingeray@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vingeraycn&show_icons=true&locale=en" alt="vingeraycn" /></p>
-
-
 
